@@ -1,10 +1,10 @@
-----
+---
 title: "IA Para programadores - Parte 1"
 description: "Introdução ao Ollama, uma ferramenta de IA para programadores."
 layout: post
 date: 2025-06-21
 categories: [programming, AI]
-----
+---
 
 Sou programador a quase duas décadas, e nesse tempo todo nunca me interessei
 sobre o assunto IA. Mas recentemente com todo esse hype em torna dela e por uma questão de necessidade, 
