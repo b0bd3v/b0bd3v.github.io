@@ -4,7 +4,6 @@ description: "Introdução ao Ollama, uma ferramenta de IA para programadores."
 layout: post
 date: 2025-06-29
 categories: [programming, AI]
-published: false
 ---
 # IA Para programadores - Parte 1
 
